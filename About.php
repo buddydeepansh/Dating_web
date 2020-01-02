@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+about
+</title>
+<script type="text/javascript" src="fontawesome-free-5.11.2-web/css/all.css"> </script>
+<style>
+body {
+  background-image: url('images/img21.jpeg');
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+  background-size: cover;
+}
+div {
+  margin-right: 150px;
+  margin-left: 50px;
+}
+</style>
+</head>
+<body>
+<center><font color="purple" size="36"><u><b><h1> ABOUT </u></font></h1></b></center>
+<font color=#6600cc size="6"> <h2> Hii,</h2>
+<div>
+<p>I'm AABHASH MALVIYA and pursuing in B.TECH in COMPUTER SCIENCE ENGG. from SHRI VAISHNAV INSTITUTE OF INFORMATION TECHNOLOGY and currently studyingin 2 <sup> nd </sup> YEAR & 3 <sup> rd </sup> SEM </h4> and this web-site is developed only for educational purpose only  
+</font>
+</div>
+</body>
+</html>  
