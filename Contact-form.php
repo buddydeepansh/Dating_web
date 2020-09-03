@@ -11,5 +11,5 @@
 	$headers = "From: $email_form \r\n";
 	$headers = "Repay-to : $vtr_email \r\n";
 	mail($to, $email_sub, $email_body,$headers);
-	 header("location: Contact.php");
+	 header("location: Contact.html");
 ?>
