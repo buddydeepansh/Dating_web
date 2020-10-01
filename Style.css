@@ -37,11 +37,11 @@ section{ display: flex;  }
 .rightside{ width: 55%; height: 300px; color: white; text-align: center; margin-top: 80px; padding: 40px;}
 .rightside h1{ text-align: center;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 51px;
     font-weight: 900;
     text-transform: uppercase; } 
 .rightside p {  
-    font-size: 1.1rem; padding: 30px 0; }
+    font-size: 1.11rem; padding: 30px 0; }
 .rightside button{   font-size: 17px;
     font-weight: 600;
     color: white;
@@ -51,7 +51,7 @@ section{ display: flex;  }
     padding: 20px 35px ; 
 }
 .rightside button:hover{
-      background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
+      background: linear-gradient(58deg, #1E4D92, #00C6A7 );   
 }
 .adminbtn {
   display: inline-block;
@@ -62,7 +62,7 @@ section{ display: flex;  }
   text-align: center;
   font-size: 28px;
   padding: 20px;
-  width: 150px;
+  width: 151px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
