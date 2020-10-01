@@ -26,7 +26,7 @@ nav{
 }
 .menu ul li{
     list-style: none;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -37,7 +37,7 @@ section{ display: flex;  }
 .rightside{ width: 55%; height: 300px; color: white; text-align: center; margin-top: 80px; padding: 40px;}
 .rightside h1{ text-align: center;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 51px;
     font-weight: 900;
     text-transform: uppercase; } 
 .rightside p {  
@@ -63,7 +63,7 @@ section{ display: flex;  }
   font-size: 28px;
   padding: 20px;
   width: 150px;
-  transition: all 0.5s;
+  transition: all 0.6s;
   cursor: pointer;
   margin: 5px;
 }
